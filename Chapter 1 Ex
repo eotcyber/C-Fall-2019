@@ -1,0 +1,33 @@
+1. What is a compiler?
+Translates source (C++) code to target (Machine) code
+
+2. How is compiled code different from source code?
+Compiled code is what the computer reads, yet source code is what the user inputs. Source code is easier for humans to understand.
+
+3. What tool does a programmer use to produce C++ source code?
+Editor, Compiler, Preprocessor, Linker, Debugger, Profiler
+
+4. What tool(s) does a programmer use to convert C++ source code into executable machine code?
+Compiler
+
+5. What does the linker do?
+Combines the compliers machine code with libraries in order to make the code readable for the machine.
+
+6. Does the linker deal with files containing source code or machine language code?
+Yes
+
+7. What does the preprocessor do to source code?
+adds or modifies the source file before it is processed.
+
+8. List several advantages developing software in a higher-level language has over developing software
+in machine language.
+It is easier to understand which makes it more productive. It also makes it feasible to make more complex programs.
+
+9. How can an IDE improve a programmer’s productivity?
+An IDE includes many tools that assist the programmer such as built in editors, and debuggers.
+
+10. Name a popular C++ IDE is used by programmers developing for Microsoft Windows.
+Netbeans
+
+11. Name a popular C++ IDE is used by programmers developing for Apple macOS.
+XCode
